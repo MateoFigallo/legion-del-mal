@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/MateoFigallo/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/MateoFigallo/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/MateoFigallo/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/MateoFigallo/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/MateoFigallo/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
