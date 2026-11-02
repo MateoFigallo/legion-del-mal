@@ -2,7 +2,7 @@
 name: Template para busgs del Software
 about: Ayudanos a mejorar
 title: 'Bug: '
-labels: bug, enhancement
+labels: bug, enhancement, Mejora de Software
 assignees: MateoFigallo
 
 ---
