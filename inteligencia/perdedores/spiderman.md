@@ -6,3 +6,11 @@ Spiderman es fenometal
 
 - Doctor Octopus
 - Green Goblin
+
+## Familiares
+
+- adsfasdfa
+
+## Peliculas
+
+- Spiderman: No way home
