@@ -1,7 +1,6 @@
 name: Acceso a la Fortaleza
 
-on: 
-  workflow_dispatch:
+on: push
 
 jobs:
   acceso-a-fortaleza:
@@ -28,7 +27,7 @@ jobs:
           echo ""
           echo "Planes: "
           ls planes/
-          echo "Villanos: "
+          echo "miembros: "
           ls villanos/
           echo "Inteligencia: "
           ls inteligencia/
