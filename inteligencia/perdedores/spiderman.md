@@ -14,3 +14,7 @@ Spiderman es fenometal
 ## Peliculas
 
 - Spiderman: No way home
+
+## Estrategia recomendada
+
+**Mantener a Batman en Gotham a toda costa durante operaciones importantes.**
