@@ -2,7 +2,7 @@ name: Comunicador de la legion
 
 on:
   workflow_dispatch:
-    input:
+    inputs:
       villano:
           description: 'Que villano envia el mensaje?'
           required: true
