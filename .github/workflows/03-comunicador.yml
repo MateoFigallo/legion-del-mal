@@ -1,19 +1,18 @@
 name: Comunicador de la legion
 
-
 on:
   workflow_dispatch:
     input:
       villano:
-        description: 'Que villano envia el mensaje?'
-        required: true
-        type: choice
-        options:
-          - Lex Luthor
-          - Brainiac
-          - Joker
-          - Darkseid
-          - Sinestro
+          description: 'Que villano envia el mensaje?'
+          required: true
+          type: choice
+          options:
+            - Lex Luthor
+            - Brainiac
+            - Joker
+            - Darkseid
+            - Sinestro
 
 jobs:
   transmitir-mensaje:
